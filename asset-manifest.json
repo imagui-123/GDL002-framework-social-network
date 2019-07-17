@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Ghibli-Community/static/css/main.a4a178fc.chunk.css",
+    "main.js": "/Ghibli-Community/static/js/main.f3f29afd.chunk.js",
+    "main.js.map": "/Ghibli-Community/static/js/main.f3f29afd.chunk.js.map",
+    "runtime~main.js": "/Ghibli-Community/static/js/runtime~main.dbcc058c.js",
+    "runtime~main.js.map": "/Ghibli-Community/static/js/runtime~main.dbcc058c.js.map",
+    "static/js/2.198ed3ec.chunk.js": "/Ghibli-Community/static/js/2.198ed3ec.chunk.js",
+    "static/js/2.198ed3ec.chunk.js.map": "/Ghibli-Community/static/js/2.198ed3ec.chunk.js.map",
+    "index.html": "/Ghibli-Community/index.html",
+    "precache-manifest.7d61c49a3531bd64934cd2722020ae8a.js": "/Ghibli-Community/precache-manifest.7d61c49a3531bd64934cd2722020ae8a.js",
+    "service-worker.js": "/Ghibli-Community/service-worker.js",
+    "static/css/main.a4a178fc.chunk.css.map": "/Ghibli-Community/static/css/main.a4a178fc.chunk.css.map",
+    "static/media/avatar.png": "/Ghibli-Community/static/media/avatar.c107aaf6.png",
+    "static/media/bckgStyle.css": "/Ghibli-Community/static/media/totoro_dribbble.7029e7bb.jpg",
+    "static/media/catbus.jpg": "/Ghibli-Community/static/media/catbus.a41561aa.jpg"
+  }
+}
