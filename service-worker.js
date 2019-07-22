@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ghibli-Community/precache-manifest.06b017b3992271339dc9295741feb35f.js"
+  "/Ghibli-Community/precache-manifest.d0b65135ecea55c09afb7ca7f7d36708.js"
 );
 
 self.addEventListener('message', (event) => {
