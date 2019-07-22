@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58ad0839ac77413fccc3d017ed30f901",
+    "revision": "8db60409a71b4eab56da76ab9b8d1224",
     "url": "/Ghibli-Community/index.html"
   },
   {
-    "revision": "7036d9df26f9c9b9bc9d",
+    "revision": "7e5bc9328962faac588a",
     "url": "/Ghibli-Community/static/css/main.a4a178fc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ghibli-Community/static/js/2.2db0014b.chunk.js"
   },
   {
-    "revision": "7036d9df26f9c9b9bc9d",
-    "url": "/Ghibli-Community/static/js/main.795e5d15.chunk.js"
+    "revision": "7e5bc9328962faac588a",
+    "url": "/Ghibli-Community/static/js/main.74359d7a.chunk.js"
   },
   {
     "revision": "3e27ed1c50fb6a1086ba",
