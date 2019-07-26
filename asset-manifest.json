@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Ghibli-Community/static/css/main.a4a178fc.chunk.css",
-    "main.js": "/Ghibli-Community/static/js/main.fc4bb844.chunk.js",
-    "main.js.map": "/Ghibli-Community/static/js/main.fc4bb844.chunk.js.map",
+    "main.css": "/Ghibli-Community/static/css/main.8c302217.chunk.css",
+    "main.js": "/Ghibli-Community/static/js/main.45cb8293.chunk.js",
+    "main.js.map": "/Ghibli-Community/static/js/main.45cb8293.chunk.js.map",
     "runtime~main.js": "/Ghibli-Community/static/js/runtime~main.dbcc058c.js",
     "runtime~main.js.map": "/Ghibli-Community/static/js/runtime~main.dbcc058c.js.map",
-    "static/js/2.2db0014b.chunk.js": "/Ghibli-Community/static/js/2.2db0014b.chunk.js",
-    "static/js/2.2db0014b.chunk.js.map": "/Ghibli-Community/static/js/2.2db0014b.chunk.js.map",
+    "static/js/2.8e520e76.chunk.js": "/Ghibli-Community/static/js/2.8e520e76.chunk.js",
+    "static/js/2.8e520e76.chunk.js.map": "/Ghibli-Community/static/js/2.8e520e76.chunk.js.map",
     "index.html": "/Ghibli-Community/index.html",
-    "precache-manifest.6f1948ddba5ce87999b1cf786e2c62ba.js": "/Ghibli-Community/precache-manifest.6f1948ddba5ce87999b1cf786e2c62ba.js",
+    "precache-manifest.84a0259a94aa8d4f913e9d6818a6f0a2.js": "/Ghibli-Community/precache-manifest.84a0259a94aa8d4f913e9d6818a6f0a2.js",
     "service-worker.js": "/Ghibli-Community/service-worker.js",
-    "static/css/main.a4a178fc.chunk.css.map": "/Ghibli-Community/static/css/main.a4a178fc.chunk.css.map",
-    "static/media/avatar.png": "/Ghibli-Community/static/media/avatar.c107aaf6.png",
+    "static/css/main.8c302217.chunk.css.map": "/Ghibli-Community/static/css/main.8c302217.chunk.css.map",
+    "static/media/avatar.png": "/Ghibli-Community/static/media/avatar.01a02cd7.png",
     "static/media/bckgStyle.css": "/Ghibli-Community/static/media/totoro_dribbble.7029e7bb.jpg",
-    "static/media/catbus.jpg": "/Ghibli-Community/static/media/catbus.a41561aa.jpg"
+    "static/media/catbus1.jpg": "/Ghibli-Community/static/media/catbus1.1f7e6756.jpg"
   }
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04347ceb08d303f32f749c6228de4b73",
+    "revision": "4ad1098e2f7cccda1c201b8390e31674",
     "url": "/Ghibli-Community/index.html"
   },
   {
-    "revision": "26311dae685f4015e09a",
-    "url": "/Ghibli-Community/static/css/main.a4a178fc.chunk.css"
+    "revision": "00942c8b43f58c631267",
+    "url": "/Ghibli-Community/static/css/main.8c302217.chunk.css"
   },
   {
-    "revision": "6c618b3f883c4f51f2a9",
-    "url": "/Ghibli-Community/static/js/2.2db0014b.chunk.js"
+    "revision": "69cbde071463216ab2a8",
+    "url": "/Ghibli-Community/static/js/2.8e520e76.chunk.js"
   },
   {
-    "revision": "26311dae685f4015e09a",
-    "url": "/Ghibli-Community/static/js/main.fc4bb844.chunk.js"
+    "revision": "00942c8b43f58c631267",
+    "url": "/Ghibli-Community/static/js/main.45cb8293.chunk.js"
   },
   {
     "revision": "3e27ed1c50fb6a1086ba",
     "url": "/Ghibli-Community/static/js/runtime~main.dbcc058c.js"
   },
   {
-    "revision": "c107aaf6e66c10a4ef5bdf8f91025e62",
-    "url": "/Ghibli-Community/static/media/avatar.c107aaf6.png"
+    "revision": "01a02cd700dc838185ef768c64974489",
+    "url": "/Ghibli-Community/static/media/avatar.01a02cd7.png"
   },
   {
     "revision": "f31c246b6b3f3a6e6e698d2b5ac11092",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ghibli-Community/static/media/castillo.7c60726f.jpg"
   },
   {
-    "revision": "a41561aa024a4bb8c2888bed22fb7737",
-    "url": "/Ghibli-Community/static/media/catbus.a41561aa.jpg"
+    "revision": "1f7e6756c20c02b377f7522a33f8c144",
+    "url": "/Ghibli-Community/static/media/catbus1.1f7e6756.jpg"
   },
   {
     "revision": "6edc51186a507cc49e09878c6ceec47f",
