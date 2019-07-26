@@ -27,8 +27,8 @@ class NewPost extends Component {
 
     isValid = () => {
         const {title, body, fileSize} = this.state;
-        if(fileSize > 100000) {
-            this.setState({ error: "File size should be less than 100kb"});
+        if(fileSize > 150000) {
+            this.setState({ error: "File size should be less than 150kb"});
             return false;
         }
         if(title.length === 0|| body.length === 0) {
@@ -125,7 +125,7 @@ class NewPost extends Component {
 
                 { loading ? (
                     <div className="jumbotron text-center">
-                       <h2>Loading...</h2>
+                       <h2><i class="fas fa-spinner fa-pulse fa-2x"></i></h2>
                     </div>
                 ) : (
                     ""

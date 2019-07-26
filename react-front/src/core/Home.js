@@ -5,10 +5,6 @@ import '../style/bckgStyle.css';
 
 const Home = () => (
   <div className='bckg-home'>
-    <div className="jumbotron bckg-home2 bg-white">
-     
-      <p className="lead"><h2>Welcome to Ghibli Community</h2></p>
-    </div>
     <div className="container">
       <Posts />
     </div>

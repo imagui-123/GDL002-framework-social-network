@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { list } from './apiPost';
-import DefaultPost from '../images/catbus.jpg';
+import DefaultPost from '../images/catbus1.jpg';
 import {Link} from 'react-router-dom';
 
 class Posts extends Component {
@@ -63,7 +63,7 @@ class Posts extends Component {
         const { posts } = this.state;
         return (
             <div className="container">
-                <h2 className="mt-5 mb-5">{!posts.length ? 'Loading...' : "Recent Posts"}</h2>
+                <h2 className="mt-5 mb-5">{!posts.length ? <h2><i class="fas fa-spinner fa-pulse fa-2x"></i></h2> : "Recent Posts"}</h2>
                 {this.renderPosts(posts)}
             </div>
         );

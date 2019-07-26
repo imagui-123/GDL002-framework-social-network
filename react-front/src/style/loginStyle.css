@@ -61,6 +61,7 @@ html {
     border: 0 !important;
     border-radius: 0.25rem 0 0 0.25rem !important;
 }
+
 .input_user,
 .input_pass:focus {
     box-shadow: none !important;
@@ -78,11 +79,13 @@ html {
 .form-control.input_user {
     position: relative;
     left: 7px;
+    background: rgba(242, 183, 73, 0.6);
    }
    
    .form-control.input_pass {
     position: relative;
     left: 5px;
+    background: rgba(242, 183, 73, 0.6);
    }
 
   

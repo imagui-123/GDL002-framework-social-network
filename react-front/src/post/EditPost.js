@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {singlePost, update} from './apiPost';
 import {isAuthenticated} from '../auth';
 import { Redirect } from "react-router-dom";
-import DefaultPost from '../images/catbus.jpg';
+import DefaultPost from '../images/catbus1.jpg';
 
 class EditPost extends Component {
     constructor(){
@@ -41,8 +41,8 @@ componentDidMount(){
 
 isValid = () => {
     const {title, body, fileSize} = this.state;
-    if(fileSize > 100000) {
-        this.setState({ error: "File size should be less than 100kb"});
+    if(fileSize > 150000) {
+        this.setState({ error: "File size should be less than 150kb"});
         return false;
     }
     if(title.length === 0|| body.length === 0) {
@@ -130,8 +130,8 @@ editPostForm = (title, body) => (
                 </div>
 
                 { loading ? (
-                    <div className="jumbotron text-center">
-                       <h2>Loading...</h2>
+                    <div className="text-center">
+                       <h2><i class="fas fa-spinner fa-pulse fa-2x"></i></h2>
                     </div>
                 ) : (
                     ""

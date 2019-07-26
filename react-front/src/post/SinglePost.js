@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { singlePost, remove, like, unlike } from "./apiPost";
-import DefaultPost from '../images/catbus.jpg';
+import DefaultPost from '../images/catbus1.jpg';
 import { Link, Redirect } from "react-router-dom";
 import { isAuthenticated } from "../auth";
 import Comment from "./Comment";
@@ -165,8 +165,8 @@ class SinglePost extends Component {
         <h2 className="display-2 mt-5 mb-5">{post.title}</h2>
 
         {!post ? (
-          <div className="jumbotron text-center">
-            <h2>Loading...</h2>
+          <div className="text-center">
+             <h2><i class="fas fa-stroopwafel fa-spin fa-2x"></i></h2>
           </div>
         ) : (
           this.renderPost(post)

@@ -177,9 +177,9 @@ class EditProfile extends Component {
                 </div>
 
                 { loading ? (
-                    <div className="jumbotron text-center">
-                       <h2>Loading...</h2>
-                    </div>
+                     <div className=" text-center">
+                        <h2><i class="fas fa-spinner fa-pulse fa-2x"></i></h2>
+                     </div>
                 ) : (
                     ""
                 )}
